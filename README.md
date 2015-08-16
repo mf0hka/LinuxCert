@@ -1,9 +1,3 @@
 # LinuxCert
-Certification questions for the Linux+ exam
-I am going for my Linux+ certification, and I need to study. I have been using Linux for a long time now, but I find some
-of the exam questions hard to answer, becuase its the comptia answers, not the actual detailed answer we all desire.
-So my plan is to draft both example and realistic questions from expirience, and try to make a study guide/ quiz for persons
-like me, in a similar situation. I took a Linux+ certification course, at a local university, and it was absolutely awful. 
+Certification questions for the 1337 Hax0rz Pro Linux Certification exam. These qusetions are designed to assist you in passing the riggorous traing and exam process for the 1337HPL Certification. Use of this traing material for non-1337HPL Certifications may result in voided licenses, and some retroactive penilization & proprietary non-sense. If you are attempting to pass any other exam with this material, than the  1337HPL Cert, do so at your own disgression. This software hold no license on other study materials, Other than those relating to the 1337HPL exams, and shallnot be accountable for damages one may incur from use of this software, wither for its intended purpose, or for other purposes. 
 
-future code will likely take the form of a shell script, or as some web based language, such as PHP or JS.
-I dont care if users cheat, the goal is to pass the certification exam.
